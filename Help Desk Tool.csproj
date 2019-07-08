@@ -16,7 +16,7 @@
     <SccLocalPath>SAK</SccLocalPath>
     <SccAuxPath>SAK</SccAuxPath>
     <SccProvider>SAK</SccProvider>
-    <PublishUrl>C:\Users\jeff\Documents\Visual Studio 2015\Projects\Help Desk Tool\Help Desk Tool\published\</PublishUrl>
+    <PublishUrl>C:\GitHub\Published\Help Desk Tool\</PublishUrl>
     <Install>true</Install>
     <InstallFrom>Disk</InstallFrom>
     <UpdateEnabled>false</UpdateEnabled>
@@ -30,7 +30,7 @@
     <PublisherName>Help Desk Tool</PublisherName>
     <MinimumRequiredVersion>0.3.1.3</MinimumRequiredVersion>
     <WebPage>publish.htm</WebPage>
-    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationRevision>3</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <PublishWizardCompleted>true</PublishWizardCompleted>
@@ -59,10 +59,10 @@
     <ApplicationIcon>moricons_0022.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestCertificateThumbprint>1D5CC3D83482D8BF24E65FA2CD96B3412C16105B</ManifestCertificateThumbprint>
+    <ManifestCertificateThumbprint>8FEC12691E3CA2FA2F5BCACB0AF28A64BAB1FC55</ManifestCertificateThumbprint>
   </PropertyGroup>
   <PropertyGroup>
-    <ManifestKeyFile>Help Desk Tool_1_TemporaryKey.pfx</ManifestKeyFile>
+    <ManifestKeyFile>Help Desk Tool_2_TemporaryKey.pfx</ManifestKeyFile>
   </PropertyGroup>
   <PropertyGroup>
     <GenerateManifests>true</GenerateManifests>
@@ -135,6 +135,7 @@
       <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Help Desk Tool_1_TemporaryKey.pfx" />
+    <None Include="Help Desk Tool_2_TemporaryKey.pfx" />
     <None Include="Help Desk Tool_TemporaryKey.pfx" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
